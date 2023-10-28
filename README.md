@@ -12,6 +12,8 @@
 
 - I have Completed DevOps Certification from Edureka **Link - https://drive.google.com/file/d/1a_ISMscP9SZA699VQkUmmFGDL3f1LChP/view?usp=sharing**
 
+- My CV - https://drive.google.com/file/d/1ErStsZgWLbZlB80M9IknVeUafQWnMfe4/view?usp=sharing
+
 - 📫 How to reach me **mayurbarange12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
