@@ -10,7 +10,7 @@
 
 - 🫱🏻‍🫲🏻 I’m looking for **DevOps Opportunity**
 
-- I have DevOps Certication from Edureka **Link - https://drive.google.com/file/d/1a_ISMscP9SZA699VQkUmmFGDL3f1LChP/view?usp=sharing**
+- I have Completed DevOps Certification from Edureka **Link - https://drive.google.com/file/d/1a_ISMscP9SZA699VQkUmmFGDL3f1LChP/view?usp=sharing**
 
 - 📫 How to reach me **mayurbarange12@gmail.com**
 
