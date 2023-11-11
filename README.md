@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **DevOps Learnings**
 
-- 🌱 I’m currently learning **AWS CI/CD Pieline which comprises of CodeCommit, CodeBuild, CodeDeploy,CodePipeline, EC2, AWS, Terraform, Git, Jenkins, Ansible, Docker, Kubernetes, Prometheus, Grafana**
+- 🌱 I’m currently learning **AWS CI/CD Pieline which comprises of CodeCommit, CodeBuild, CodeDeploy, CodePipeline, EC2, AWS, Terraform, Git, Jenkins, Ansible, Docker, Kubernetes, Prometheus, Grafana**
 
 - 🫱🏻‍🫲🏻 I’m looking for **DevOps Opportunity**
 
