@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **DevOps Learnings**
 
-- 🌱 I’m currently learning **AWS CI/CD Pieline which comprises of CodeCommit, CodeBuild, CodeDeploy, CodePipeline, EC2, AWS, Terraform, Git, Jenkins, Ansible, Docker, Kubernetes, Prometheus, Grafana**
+- 🌱 I’m currently learning **Linux, AWS, CI/CD Pieline, EC2, AWS, Terraform, Git, Jenkins, Ansible, Docker, Kubernetes, Prometheus, Grafana , Bash scripting**
 
 - 🫱🏻‍🫲🏻 I’m looking for **DevOps Opportunity**
 
 - I have Completed DevOps Certification from Edureka **Link - https://drive.google.com/file/d/1a_ISMscP9SZA699VQkUmmFGDL3f1LChP/view?usp=sharing**
 
-- My CV - https://drive.google.com/file/d/1ErStsZgWLbZlB80M9IknVeUafQWnMfe4/view?usp=sharing
+- My CV - https://drive.google.com/file/d/16oeJNZtjstzPWKl3LBMu6l-h3xrEJq4b/view?usp=sharing
 
 - 📫 How to reach me **mayurbarange12@gmail.com**
 
