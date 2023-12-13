@@ -11,10 +11,10 @@
 - 🫱🏻‍🫲🏻 I’m looking for **DevOps Opportunity**
 
 - I have Completed DevOps Certification from Edureka
-- **Link - https://drive.google.com/file/d/1a_ISMscP9SZA699VQkUmmFGDL3f1LChP/view?usp=sharing**
+  **Link - https://drive.google.com/file/d/1a_ISMscP9SZA699VQkUmmFGDL3f1LChP/view?usp=sharing**
 
 - I have Completed Linux Certification from TrainWithShubham
-- **Link - https://drive.google.com/file/d/1vT48oNpR--cQJ1Q3sO--zhBY38B8K9l1/view?usp=sharing**
+  **Link - https://drive.google.com/file/d/1vT48oNpR--cQJ1Q3sO--zhBY38B8K9l1/view?usp=sharing**
 
 - My CV - **https://drive.google.com/file/d/16oeJNZtjstzPWKl3LBMu6l-h3xrEJq4b/view?usp=sharing**
 
